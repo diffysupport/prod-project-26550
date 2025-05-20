@@ -2,8 +2,8 @@ basic:
     name: PerformantLabs.com
     environments:
         production: 'https://PerformantLabs.com'
-        staging: ''
-        development: ''
+        staging: 'https://test-performant-labs.pantheonsite.io/'
+        development: 'https://dev-performant-labs.pantheonsite.io/'
     breakpoints:
         - 640
         - 1024
